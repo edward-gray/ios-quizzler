@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "df01da5c55c42f4661e449b722df3fa6"
+build_time: [1585592174, 540835000]
+inputs:
+  "/Users/edwardgray/XcodeProjects/Quizzler-iOS13/Quizzler-iOS13/ViewController.swift": [1585592174, 432039397]
+  "/Users/edwardgray/XcodeProjects/Quizzler-iOS13/Quizzler-iOS13/Question.swift": [1585591809, 336382964]
+  "/Users/edwardgray/XcodeProjects/Quizzler-iOS13/Quizzler-iOS13/AppDelegate.swift": [1585587537, 707950938]
+  "/Users/edwardgray/XcodeProjects/Quizzler-iOS13/Quizzler-iOS13/SceneDelegate.swift": [1585587537, 717111556]
